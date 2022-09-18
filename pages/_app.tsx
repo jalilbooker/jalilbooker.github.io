@@ -43,11 +43,11 @@ function MyApp({ Component, pageProps, router }: AppProps): JSX.Element {
 
         {/* Open Graph / Facebook */}
         <meta property="og:type" content="website" />
-        <meta property="og:url" content="https://jalilmarkel.me/" />
-        <meta property="og:title" content="Jalil Markel | Software Developer" />
+        <meta property="og:url" content="https://jalilbooker.github.io/" />
+        <meta property="og:title" content="Jalil Markel | Senior Fullstack Engineer" />
         <meta
           property="og:description"
-          content="Jalil Markel is a Software Developer from Dhanbad, Jharkhand. Jalil is pursuing his undergraduate from SRM University, Chennai."
+          content="Jalil is a dedicated software engineer having nearly decade years of experience in developing cutting-edge engineering solutions with a wide range of technology features."
         />
         <meta
           property="og:image"
@@ -56,17 +56,12 @@ function MyApp({ Component, pageProps, router }: AppProps): JSX.Element {
 
         {/* Twitter */}
         <meta property="twitter:card" content="summary_large_image" />
-        <meta property="twitter:url" content="https://jalilmarkel.me/" />
+        <meta property="twitter:url" content="https://jalilbooker.github.io/" />
         <meta property="twitter:site" content="@jalilbooker" />
-        <meta property="twitter:title" content="Jalil Markel | Software Developer" />
+        <meta property="og:title" content="Jalil Markel | Senior Fullstack Engineer" />
         <meta
           property="twitter:description"
-          content="Jalil Markel is a Software Developer from Dhanbad, Jharkhand. Jalil is pursuing his undergraduate from SRM University, Chennai."
-        />
-        {/* Use Billboard to get an OG Image */}
-        <meta
-          property="twitter:image"
-          content="https://billboard.srmkzilla.net/api/blog?title=Jalil%20Markel&subtitle=Software%20Developer&fileType=jpeg&theme=dark&fontSize=180px"
+          content="Jalil is a dedicated software engineer having nearly decade years of experience in developing cutting-edge engineering solutions with a wide range of technology features."
         />
         <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
         <link rel="icon" type="image/png" sizes="32x32" href="/favicon.png" />
