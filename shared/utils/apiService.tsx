@@ -1,7 +1,7 @@
 import axios from 'axios';
 import { Company, PersonalDetails, Project } from './types';
 
-export const BASE_URL = `${process.env.BASE_URL}/api` || 'http://localhost:3000/api';
+export const BASE_URL = 'http://jalilbooker.github.io/api';
 
 export async function getPersonalDetails(): Promise<PersonalDetails | boolean> {
   try {
@@ -31,7 +31,9 @@ export async function getCompanyDetails(): Promise<Company[] | boolean> {
 
 export async function getGithubDetails(): Promise<unknown> {
   try {
-    const { data } = await axios.get(`https://api.github.com/repos/jalilbooker/another-portfolio`);
+    const { data } = await axios.get(
+      `https://api.github.com/repos/jalilbooker/jalilbooker.github.io`
+    );
     return data;
   } catch (err) {
     return false;
