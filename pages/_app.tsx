@@ -23,15 +23,15 @@ function MyApp({ Component, pageProps, router }: AppProps): JSX.Element {
   return (
     <div>
       <Head>
-        <title>Jalil Markel | Software Developer</title>
-        <meta name="title" content="Jalil Markel | Software Developer" />
+        <title>Jalil Markel | Software Engineer</title>
+        <meta name="title" content="Jalil Markel | Software Engineer" />
         <meta
           name="description"
-          content="Jalil Markel is a Software Developer from Dhanbad, Jharkhand. Jalil is pursuing his undergraduate from SRM University, Chennai."
+          content="Jalil is a dedicated software engineer having nearly decade years of experience in developing cutting-edge engineering solutions with a wide range of technology features."
         />
         <meta
           name="keywords"
-          content="Jalil Markel, Software Developer , Web Development Freelancer, SRM University, Web Developer"
+          content="Jalil Markel, Software Engineer , Web Development Freelancer, Web Engineer, Fullstack Engineer"
         />
         <meta name="robots" content="index, follow" />
         <meta httpEquiv="Content-Type" content="text/html; charset=utf-8" />
@@ -51,7 +51,7 @@ function MyApp({ Component, pageProps, router }: AppProps): JSX.Element {
         />
         <meta
           property="og:image"
-          content="https://billboard.srmkzilla.net/api/blog?title=Jalil%20Markel&subtitle=Software%20Developer&fileType=jpeg&theme=dark&fontSize=180px"
+          content="https://billboard.srmkzilla.net/api/blog?title=Jalil%20Markel&subtitle=Senior%20Fullstack%20Engineer&fileType=jpeg&theme=dark&fontSize=180px"
         />
 
         {/* Twitter */}
