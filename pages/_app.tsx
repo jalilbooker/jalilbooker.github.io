@@ -43,7 +43,7 @@ function MyApp({ Component, pageProps, router }: AppProps): JSX.Element {
 
         {/* Open Graph / Facebook */}
         <meta property="og:type" content="website" />
-        <meta property="og:url" content="https://jalilbooker.github.io/" />
+        <meta property="og:url" content="https://jalil-markel.herokuapp.com/" />
         <meta property="og:title" content="Jalil Markel | Senior Fullstack Engineer" />
         <meta
           property="og:description"
@@ -56,7 +56,7 @@ function MyApp({ Component, pageProps, router }: AppProps): JSX.Element {
 
         {/* Twitter */}
         <meta property="twitter:card" content="summary_large_image" />
-        <meta property="twitter:url" content="https://jalilbooker.github.io/" />
+        <meta property="twitter:url" content="https://jalil-markel.herokuapp.com/" />
         <meta property="twitter:site" content="@jalilbooker" />
         <meta property="og:title" content="Jalil Markel | Senior Fullstack Engineer" />
         <meta

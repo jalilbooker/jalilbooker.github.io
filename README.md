@@ -1,5 +1,5 @@
 <p align="center">
-crafted with <span style="color: #8b0000;">&hearts;</span> by <a href="https://jalilbooker.github.io">Jalil Markel</a>.
+crafted with <span style="color: #8b0000;">&hearts;</span> by <a href="https://jalil-markel.herokuapp.com">Jalil Markel</a>.
 </p>
 Jalil's Developer Portfolio built on NextJS!
 

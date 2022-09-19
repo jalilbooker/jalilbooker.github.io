@@ -5,7 +5,7 @@
   "author": {
     "name": "Jalil Markel",
     "email": "greatjalilbooker@gmail.com",
-    "url": "https://jalilbooker.github.io"
+    "url": "https://jalil-markel.herokuapp.com"
   },
   "scripts": {
     "dev": "next dev",
