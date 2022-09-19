@@ -21,7 +21,7 @@ const db = {
         alt_text: 'Email'
       },
       {
-        link: 'https://linkedin.com/in/jalilbooker',
+        link: 'https://linkedin.com/in/jalil-booker-markel',
         image_file: '/images/icons/linkedin.svg',
         alt_text: 'LinkedIn'
       },
