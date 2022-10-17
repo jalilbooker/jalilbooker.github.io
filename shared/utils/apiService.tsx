@@ -32,7 +32,7 @@ export async function getCompanyDetails(): Promise<Company[] | boolean> {
 export async function getGithubDetails(): Promise<unknown> {
   try {
     const { data } = await axios.get(
-      `https://api.github.com/repos/jalilbooker/jalilbooker.github.io`
+      `https://api.github.com/repos/jalilmarkel/jalilmarkel.github.io`
     );
     return data;
   } catch (err) {

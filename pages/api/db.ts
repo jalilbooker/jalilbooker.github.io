@@ -20,13 +20,13 @@ const db = {
         image_file: '/images/icons/mail.svg',
         alt_text: 'Email'
       },
+      // {
+      //   link: 'https://linkedin.com/in/jalil-booker-markel',
+      //   image_file: '/images/icons/linkedin.svg',
+      //   alt_text: 'LinkedIn'
+      // },
       {
-        link: 'https://linkedin.com/in/jalil-booker-markel',
-        image_file: '/images/icons/linkedin.svg',
-        alt_text: 'LinkedIn'
-      },
-      {
-        link: 'https://github.com/jalilbooker',
+        link: 'https://github.com/jalilmarkel',
         image_file: '/images/icons/github.svg',
         alt_text: 'Github'
       }
@@ -52,7 +52,7 @@ const db = {
       name: 'MindStreet',
       tags: ['ReactJS', 'SvelteJS', 'CSS', 'JavaScript', 'PHP', 'MySQL', 'GraphQL'],
       category: ['web'],
-      url: 'https://github.com/jalilbooker/DAA-Web',
+      url: 'https://github.com/jalilmarkel/DAA-Web',
       featured: true,
       description:
         'Evidence-based, clinically proven computer-assisted programs to manage symptoms of mental health disorders. These programs are based on decades of NIH-funded research first pioneered by our founders and are designed to be universally accessible, easily affordable, and completely stigma-free. Most importantly, they deliver similar outcomes in a fraction of the time and resources compared to traditional tools to address mental health conditions.',
