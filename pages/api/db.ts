@@ -1,16 +1,16 @@
 const db = {
   personalDetails: {
     _id: '601650e62147e23bf8664148',
-    name: 'Jalil Booker Markel',
+    name: 'Jalil Markel',
     about:
-      'Jalil is a dedicated software engineer with a focus on the design and implementation of web applications. He has nearly decade years of experience in developing cutting-edge engineering solutions with a wide range of technology features. He has participated in more than 15 business level projects and is skilled in both agile processes, backend and frontend development. His perfect balance of technical & managerial skills stands him apart from the crowd.',
+      'A software engineer with a focus on the design and implementation of web applications. Have nearly a decade years of experience in developing cutting-edge engineering solutions with a wide range of technology features. Worked with Fortune 500 companies and have expertise in both agile processes, backend and frontend development.',
     work: {
-      company: 'Studiolite',
+      company: 'Intuit',
       designation: 'Senior Fullstack Engineer',
-      logo: '/images/companies/studiolite.png'
+      logo: '/images/companies/intuit.png'
     },
     logo: '/images/logo-light.svg',
-    resume: 'https://drive.google.com/file/d/1kpe0Rxeez0oiwJ3EnXvYBulZ3Bdv_s9H/view?usp=sharing',
+    resume: 'https://drive.google.com/file/d/1KuxqlNJh2mBufpC9Q7hmFgCQ3lYqbwNI/view?usp=sharing',
     profile_img: '/images/jalil.png',
     calendyUrl:
       'https://calendly.com/jalilmarkel/30min?hide_event_type_details=1&hide_gdpr_banner=1',
@@ -126,35 +126,36 @@ const db = {
   ],
   companyDetails: [
     {
-      name: 'Studiolite',
-      logo_url: '/images/companies/studiolite.png',
+      name: 'Intuit',
+      logo_url: '/images/companies/intuit.png',
       featured: true,
-      position: 'Senior Fullstack Engineer',
+      position: 'Senior Frontend Engineer',
       startDate: 'Sep 2021',
       responsibilities: [
-        'Released a mobile application that manages properties and connects brokers with customers for real estate companies',
-        'Provided technical insight and engineering support on start-up companies and helped them bring their MVPs to the market in a given time.',
-        'Discussed project progress with customers, collected feedback on different stages and directly addressed concerns.',
+        'Contributed to overall site stability, including code reviews, writing unit and integration tests',
+        'Built Email Notification System called OINP (One Intuit Notification System) and updated 150+ components using ids(private) module.',
+        'Maintained complex technology infrastructure and collaborated with product team to implement new features and strategically plan for future products. ',
         'Collaborated with project managers and other engineering groups to plan and prioritize projects and then break them into scrum epics and stories for my teams (agile).',
-        'Assessed and reviewed all pull requests created by teammates to ensure the quality and accuracy of the code.',
-        'Tech Used: React, Typescript, Node.js, Vue3, Quasar, PostgreSQL'
+        'Worked cross-functionally with various Intuit teams: product management, various product lines, or business units to drive forward results',
+        'Resolved defects/bugs during QA testing, pre-production, production, and post-release patches'
       ],
       order: 1
     },
     {
-      name: 'MindStreet Inc',
+      name: 'Amazon',
       position: 'Senior Fullstack Engineer',
-      logo_url: '/images/companies/mindstreet.png',
+      logo_url: '/images/companies/amazon.png',
       featured: true,
       startDate: 'Apr 2020',
       endDate: 'Sep 2021',
       responsibilities: [
-        'Upgraded application version to the latest by converting existing Svelte codes into well-structured React code.',
-        'Analysed learning diagram and technically implemented the workflow.',
+        'Brainstormed, designed, and implement front end components and user experience for the Specialists Platform customers.',
+        'Participate in all stages of the software development cycle, including design and development of significant new architectures and features',
+        'Work closely with the product team and other AWS teams to deliver on the team’s technical vision',
         'Maintained high-level expertise in React state management strategies.',
-        'Sped up onboarding process for web contributors by spearheading a Naming Conventions Best Practices doc on front end code for React, Apollo GraphQL, Rosie, Jest, Next.js, etc.',
-        'Taught around four two-week Front-End Web Development Bootcamps (React/Redux/GraphQL/Apollo/Node.js) at Intuit per year',
-        'Tech Used: React, Next.js, Node.js, Svelte, Firebase, Stripe, GraphQL'
+        'Architected and coded a large common code library for web applications, covering security, configuration, and especially data management',
+        'Discussed project progress with customers, collected feedback on different stages and directly addressed concerns.',
+        'Sped up onboarding process for web contributors by spearheading a Naming Conventions Best Practices doc on front end code for React, Apollo GraphQL, Rosie, Jest, Next.js, etc.'
       ],
       order: 2
     },
@@ -176,35 +177,21 @@ const db = {
       order: 3
     },
     {
-      name: 'Redfin Technologies',
-      position: 'Fullstack Engineer',
-      featured: true,
-      startDate: 'Apr 2017',
-      endDate: 'Nov 2018',
-      responsibilities: [
-        'Dramatically improved the user experience for over 10,000 users by optimizing client code and refactoring a .NET MVC web app with jQuery to using React and Redux ',
-        'Maintained complex technology infrastructure and collaborated with product team to implement new features and strategically plan for future products.',
-        'Defined unit tests and e2e tests and build CI/CD pipeline using Circle CI',
-        'Implemented JWT authentications. Used passport.js for social sign-in and implemented local strategy',
-        'Tech Used:  React, Redux, Cypress, Jest, .NET, JQuery'
-      ],
-      order: 3
-    },
-    {
       name: 'PoloSoft Technologies',
       position: 'Fullstack Engineer',
       logo_url: '/images/companies/polosoft.svg',
       featured: true,
       startDate: 'Feb 2016',
-      endDate: 'Apr 2017',
+      endDate: 'Sep 2018',
       responsibilities: [
         'Promoted to top programmer, joined core development team, participated in software filed testing to verify performance of the developed projects.',
         'Created a chatbot platform using NLP and Messenger APIs.',
-        'Delivered technical training for React, Redux, Angular, GraphQL,  Apollo, Docker, Python, JavaScript, jQuery, Node.js, HTML5, CSS, and ASP.NET MVC to clients ranging from small businesses to Fortune 100 Companies.',
-        'Architected and coded a large common code library for web applications, covering security, configuration, and especially data management.',
+        'Delivered technical training for React, Redux, Angular, GraphQL,  Apollo, Docker, Python, JavaScript, jQuery, Node.js, HTML5, CSS, and ASP.NET MVC to clients ranging from small businesses to Fortune 100 Companies',
         'Consulted with clients on the most appropriate design options based on their major marketing goals',
-
-        'Tech Used: Docker, Python, PHP, Angular, React, Django'
+        'Dramatically improved the user experience for over 10,000 users by optimizing client code and refactoring a .NET MVC web app with jQuery to using React and Redux ',
+        'Provided technical insight and engineering support on start-up companies and helped them bring their MVPs to the market in a given time.',
+        'Released a mobile application that manages properties and connects brokers with customers for real estate companies',
+        'Implemented JWT authentications. Used passport.js for social sign-in and implemented local strategy.'
       ],
       order: 5
     },
